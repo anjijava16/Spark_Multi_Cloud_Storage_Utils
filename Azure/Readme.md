@@ -6,6 +6,14 @@
 5. Hadoop Azure Data Lake Jars
 6. pom.xml
 
+
+# Azure Storage Account Details:
+
+1. Storage Account Name: gen2iwinnerdb
+2. Container Name: data
+3. Path: inputdata/Input.csv
+
+
 # Important Jars Files:
 
 ### . hadoop-client.3.2.0 Jars
