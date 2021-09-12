@@ -62,5 +62,8 @@
 
 # Links
 1. https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-open-source-platforms
-2. https://bitbucket.org/bradleysmithllc/azure-spark-local-sample/src/master/src/main/java/azure_storage_example/SparkWithAzureStorageExample.java
+2. https://issues.apache.org/jira/browse/HADOOP-16410
+3. http://202.38.69.240:10070/dependency/hadoop/commit/92e37a0b732aa2ac66874984073290da7d5c8e05   (org.wildfly.openssl.CipherSuiteConverter.toJava)
+4. https://docs.microsoft.com/en-us/answers/questions/59119/reading-file-from-azure-data-lake-storage-v2-with.html
+5. https://bitbucket.org/bradleysmithllc/azure-spark-local-sample/src/master/src/main/java/azure_storage_example/SparkWithAzureStorageExample.java
  
