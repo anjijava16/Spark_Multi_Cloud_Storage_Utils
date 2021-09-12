@@ -62,4 +62,5 @@
 
 # Links
 1. https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-open-source-platforms
+2. https://bitbucket.org/bradleysmithllc/azure-spark-local-sample/src/master/src/main/java/azure_storage_example/SparkWithAzureStorageExample.java
  
