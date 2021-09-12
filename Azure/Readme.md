@@ -10,42 +10,39 @@
 
 ### . hadoop-client.3.2.0 Jars
 
-``
-    <dependency>
-            <groupId>org.apache.hadoop</groupId>
-            <artifactId>hadoop-client</artifactId>
-            <version>3.2.0</version>
-        </dependency>
-        <dependency>
+
+                    <dependency>
+                            <groupId>org.apache.hadoop</groupId>
+                            <artifactId>hadoop-client</artifactId>
+                            <version>3.2.0</version>
+                        </dependency>
+                        <dependency>
         
         ``
 
 ### . wildfly-openssl.1.0.7.Final
 
 
-``
-        <dependency>
-            <groupId>org.wildfly.openssl</groupId>
-            <artifactId>wildfly-openssl</artifactId>
-            <version>1.0.7.Final</version>
-        </dependency>
+                            <dependency>
+                                <groupId>org.wildfly.openssl</groupId>
+                                <artifactId>wildfly-openssl</artifactId>
+                                <version>1.0.7.Final</version>
+                            </dependency>
 
-``
 
 
 ### . hadoop-azure-datalake and hadoop-azure jar files 
-``
- <dependency>
-            <groupId>org.apache.hadoop</groupId>
-            <artifactId>hadoop-azure-datalake</artifactId>
-            <version>3.2.0</version>
-        </dependency>
 
-    
+                     <dependency>
+                                <groupId>org.apache.hadoop</groupId>
+                                <artifactId>hadoop-azure-datalake</artifactId>
+                                <version>3.2.0</version>
+                            </dependency>
 
-        <dependency>
-            <groupId>org.apache.hadoop</groupId>
-            <artifactId>hadoop-azure</artifactId>
-            <version>3.2.0</version>
-        </dependency>
-``
+
+
+                            <dependency>
+                                <groupId>org.apache.hadoop</groupId>
+                                <artifactId>hadoop-azure</artifactId>
+                                <version>3.2.0</version>
+                            </dependency>
