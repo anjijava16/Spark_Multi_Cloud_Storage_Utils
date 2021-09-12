@@ -7,7 +7,9 @@
 6. pom.xml
 
 # Important Jars Files:
-1. hadoop-client.3.2.0 Jars
+
+### . hadoop-client.3.2.0 Jars
+
 ``
     <dependency>
             <groupId>org.apache.hadoop</groupId>
@@ -17,8 +19,10 @@
         <dependency>
 ``
 
-2. wildfly-openssl.1.0.7.Final
- ``
+### . wildfly-openssl.1.0.7.Final
+
+
+``
         <dependency>
             <groupId>org.wildfly.openssl</groupId>
             <artifactId>wildfly-openssl</artifactId>
@@ -26,7 +30,9 @@
         </dependency>
 
 ``
-3. hadoop-azure-datalake and hadoop-azure jar files 
+
+
+### . hadoop-azure-datalake and hadoop-azure jar files 
 ``
  <dependency>
             <groupId>org.apache.hadoop</groupId>
