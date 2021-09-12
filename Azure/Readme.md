@@ -58,3 +58,8 @@
                                 <artifactId>hadoop-azure</artifactId>
                                 <version>3.2.0</version>
                             </dependency>
+
+
+# Links
+1. https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-open-source-platforms
+ 
