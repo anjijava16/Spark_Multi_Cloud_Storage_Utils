@@ -13,6 +13,10 @@
 2. Container Name: data
 3. Path: inputdata/Input.csv
 
+# Spark Setup for ADFS (Azure Data Lake File System) 
+1. spark.conf.set("fs.defaultFS", "abfs://data@gen2iwinnerdb.dfs.core.windows.net/")
+2. spark.conf.set("fs.azure.account.key.gen2iwinnerdb.dfs.core.windows.net", "yHJgKMzLNC7E+Q3YK3z8TlDLNME6rNRyUCHGoMKPwEmvaojagKogap3pIzOvj5s95YslUAevoEzfBOTHXMMiWQ==")
+
 
 # Important Jars Files:
 
