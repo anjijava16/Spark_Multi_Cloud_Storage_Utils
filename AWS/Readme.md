@@ -14,7 +14,7 @@
 4. S3AFileSystem: fs.s3a.impl (org.apache.hadoop.fs.s3a.S3AFileSystem)
 
 # Import Jar files:
-1.  <aws.java.sdk.version>1.11.145</aws.java.sdk.version>
+                1.  <aws.java.sdk.version>1.11.145</aws.java.sdk.version>
 
                       <dependencyManagement>
                               <dependencies>
