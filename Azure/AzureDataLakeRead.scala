@@ -15,4 +15,7 @@ object AzureParquetFileReads {
     val df = spark.read.csv("abfs://data@gen2iwinnerdb.dfs.core.windows.net/inputdata/InputData.csv")
     df.show(10)
     
+    
+    // Write data
+    df.write.format("parquet").save("abfs://data@gen2iwinnerdb.dfs.core.windows.net/outputdata/parquet/")
   }
