@@ -4,7 +4,7 @@ from pyspark.sql.functions import col, year, month, dayofmonth, unix_timestamp, 
 from datetime import datetime
 
 # Replace your storage location
-greentaxidf = spark.read.load('abfss://users@datatechdemostorage.dfs.core.windows.net/taxidata/GreenTaxiTripData_201812.csv', format='csv', header=True)
+greentaxidf = spark.read.load('abfss://data@datagen2winner.dfs.core.windows.net/inputdatataxidata/GreenTaxiTripData_201812.csv', format='csv', header=True)
 display(greentaxidf.limit(10))
 
 greentaxidf = greentaxidf.where(col('passenger_count') > 0) \
