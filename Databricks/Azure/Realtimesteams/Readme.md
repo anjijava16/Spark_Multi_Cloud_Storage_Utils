@@ -1,3 +1,18 @@
+# About us
+* In this Package read and write Spark Structured Streaming utils using Azure Cloud 
+
+# PreRequests
+1. Azure Account
+2. Azure Databricks setup
+3. Azure Cosmos DB
+4. Azure Storage account (Gen2 Data Lake)
+5. Azure SQL Databases
+6. MYSQL Database
+7. Azure Key Valut
+8. Azure Active Directory (App Registration)
+9. Azure Event Hubs 
+10. Python Code (Mockup data generations)
+
 
 # Real time Streams Ingestion into Azure Data Lake Gen2 ,Azure SQL Database, Cosmos DB(Core SQL API,cassandra API ) and MYSQL DB Sink Connector
 1. Read Event Hub Data
