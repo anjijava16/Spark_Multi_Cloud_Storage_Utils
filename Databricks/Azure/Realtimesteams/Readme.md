@@ -30,3 +30,4 @@
 3. Python Producer Example: https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send
 4. Cosmos DB : https://sqlwithmanoj.com/2021/04/07/connect-to-cosmos-db-from-databricks-and-read-data-by-apache-spark-to-azure-cosmos-db-connector/
 5. Spring Microservices: https://github.com/discospiff/SpringBootMicroservicesWithIntelliJIDEA
+6. https://medium.com/datalex/structured-streaming-with-azure-databricks-from-iothub-to-cosmos-db-95c8a766d574
