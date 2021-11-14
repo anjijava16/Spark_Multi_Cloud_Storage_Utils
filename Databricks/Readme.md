@@ -6,6 +6,12 @@
 2. Azure Data Lake Storage ( ADLS Gen 2 - HDFS on cloud / on top up the Blob storage )
 3. Google Cloud Storage ( GCS )
 
+
+# Databricks Arch 
+
+![image](https://user-images.githubusercontent.com/5849522/141686809-16408c66-1981-47d8-ab92-32d3b8ecec7c.png)
+
+
 # AWS with Databricks 
 
 ![image](https://user-images.githubusercontent.com/5849522/141686606-692daef5-6448-4016-bda5-b34bff5871dd.png)
